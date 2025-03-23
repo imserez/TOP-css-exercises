@@ -1,0 +1,17 @@
+.paragraph {
+  background-color: salmon;
+  font-size: 22px;
+}
+#num2 {
+  font-size: 32px;
+  color: blue;
+}
+
+.cooler {
+  font-size: 50px;
+}
+#num4 {
+  background-color: green;
+  font-weight: 700;
+  font-size: 40px;
+}
