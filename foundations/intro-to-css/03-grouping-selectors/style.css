@@ -1,0 +1,12 @@
+.black-background,
+.yellow-background {
+  font-size: 22px;
+}
+
+.black-background {
+  color: white;
+  background-color: black;
+}
+.yellow-background {
+  background-color: yellow;
+}
