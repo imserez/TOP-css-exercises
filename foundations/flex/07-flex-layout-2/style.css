@@ -21,10 +21,6 @@ body {
   color: darkmagenta;
 }
 
-* {
-  /* border: 1px solid red; */
-}
-
 .sidebar {
   width: 300px;
   background: royalblue;
